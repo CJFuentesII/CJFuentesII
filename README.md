@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CJFuentesII
+- 👀 I’m interested in Computers.
+- 🌱 I’m currently learning Cyber Security.
+- 💞️ I’m looking to collaborate on Building computers.
